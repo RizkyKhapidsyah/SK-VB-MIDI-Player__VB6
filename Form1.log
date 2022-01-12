@@ -1,0 +1,7 @@
+Line 28: Class VBUMidiFilePlayer.VBUMidiPlayer of control VBUMidiPlayer2 was not a loaded control class.
+Line 50: Class VBUMidiFilePlayer.VBUMidiPlayer of control VBUMidiPlayer1 was not a loaded control class.
+Line 31: The property name _ExtentX in VBUMidiPlayer2 is invalid.
+Line 32: The property name _ExtentY in VBUMidiPlayer2 is invalid.
+Line 53: The property name _ExtentX in VBUMidiPlayer1 is invalid.
+Line 54: The property name _ExtentY in VBUMidiPlayer1 is invalid.
+Line 55: The property name Repeat in VBUMidiPlayer1 is invalid.
